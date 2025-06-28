@@ -25,7 +25,7 @@ The dataset (`movie_dataset.csv`) includes:
 
 ## 💻 How to Run
 
-### Option 1: Try it online 
+### Option 1: Try it online ( Just check it out)
 👉 Click here to try the app(https://movie-recommendation-system-rffar6csmubw7fjkeygmjt.streamlit.app/)
 
 ### Option 2: Run via Git and Streamlit (locally)
