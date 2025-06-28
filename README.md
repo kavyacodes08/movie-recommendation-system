@@ -26,12 +26,12 @@ The dataset (`movie_dataset.csv`) includes:
 ## 💻 How to Run
 
 ### Option 1: Try it online 
-👉 Click here to try the app( )
+👉 Click here to try the app(https://movie-recommendation-system-rffar6csmubw7fjkeygmjt.streamlit.app/)
 
 ### Option 2: Run via Git and Streamlit (locally)
-
-```bash
 git clone https://github.com/kavyacodes08/movie-recommendation-system.git
+```bash
+Commands
 cd movie-recommendation-system
 pip install -r requirements.txt
 streamlit run app.py
